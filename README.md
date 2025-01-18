@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajualit Tickoo</h1>
 <h3 align="center">A passionate frontend developer from Himachal Pradesh, India. I love the hate of debugging.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajualit&label=Profile%20views&color=0e75b6&style=flat" alt="prajualit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajualit" alt="prajualit" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?prajualit=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/tickoo_sahab" target="blank"><img src="https://img.shields.io/twitter/follow/tickoo_sahab?logo=twitter&style=for-the-badge" alt="tickoo_sahab" /></a> </p>
 
