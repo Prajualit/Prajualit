@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajualit Tickoo</h1>
 <h3 align="center">A passionate frontend developer from Himachal Pradesh, India. I love the hate of debugging.</h3>
 
-<p align="left"> <a href="https://twitter.com/tickoo_sahab" target="blank"><img src="https://img.shields.io/twitter/follow/tickoo_sahab?logo=twitter&style=for-the-badge" alt="tickoo_sahab" /></a> </p>
-
 - 🔭 I’m currently working on **Closer - A social media application based on MERN Stack.**
 
 - 🌱 I’m currently learning **Next.js, auth.js, json-web-token and hopefully more!**
