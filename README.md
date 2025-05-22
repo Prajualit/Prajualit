@@ -1,23 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prajualit Tickoo</h1>
+<h1 align="center">Prajualit Tickoo</h1>
 <h3 align="center">A passionate frontend developer from Himachal Pradesh, India. I love the hate of debugging.</h3>
 
-- 🔭 I’m currently working on **Closer - A social media application based on MERN Stack.**
-
-- 🌱 I’m currently learning **Next.js, auth.js, json-web-token and hopefully more!**
-
-- 👯 I’m looking to collaborate on **any project based on Next.js**
-
-- 👨‍💻 All of my projects are available at [prajualittickoo.vercel.app](prajualittickoo.vercel.app)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **prajualit@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/prajualit](www.linkedin.com/in/prajualit)
-
-- ⚡ Fun fact **I can debug while crying(or maybe not)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tickoo_sahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tickoo_sahab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajualit tickoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajualit tickoo" height="30" width="40" /></a>
