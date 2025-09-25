@@ -91,7 +91,7 @@ Project Mgmt  ██████████████████████
 
 ##  Innovation Labs
 
-> *"Every line of code is a step towards a more decentralized tomorrow"*
+> *"Every line of code is a step toward a smarter, stronger system"*
 
 ##  Network Connections
 
