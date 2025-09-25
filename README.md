@@ -36,7 +36,7 @@ Currently architecting the next generation of decentralized applications, where 
 <tr>
 <td width="50%">
 
-### 🔗 **Frontend Stack**
+###  **Frontend Stack**
 ```bash
 frontend/
 ├── react/
